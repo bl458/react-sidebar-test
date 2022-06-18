@@ -1,6 +1,6 @@
 # Sample Web Sidebar
 
-THis is a sidebar made with react.
+This is a sidebar made with react.
 
 ## Available Scripts
 
