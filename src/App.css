@@ -1,3 +1,11 @@
-.App {
-  text-align: center;
+/* @import url('') */
+
+.home,
+.reports,
+.products {
+  display: flex;
+  height: 90vh;
+  justify-content: center;
+  align-items: center;
+  font-size: 3rem;
 }
